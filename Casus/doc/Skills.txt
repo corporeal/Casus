@@ -1,0 +1,14 @@
+Skill List
+-----------------------------------------------------------------------------------------
+There are several skills in Casus. Skills allow the player to access different portions
+of the game that reflect their character's ability.
+
+Direct Skills
+----------------
+Agility
+
+Indirect Skills
+----------------
+Focus
+Dexterity
+Strength
